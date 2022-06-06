@@ -1,3 +1,5 @@
+# PROJECT MOVED TO [Version1 Org/etiqet-example](https://github.com/Version1/etiqet-example). THIS REPOSITORY WILL NO LONGER BE MAINTAINED.
+
 # Etiqet Example Project
 
 This is a simple Etiqet project that uses the REST component to make some example API calls to the Oanda test API; this also uses the FIX component to interact with the Neueda simulator running locally on port 9899 (and the accompanying web service on port 5000).
